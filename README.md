@@ -1,4 +1,4 @@
-# Hello, I'm João Victor Palmeira! 
+# Hello, I'm João Victor! 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jvpalmeira)](https://github.com/jvpalmeira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvpalmeira/)](https://www.linkedin.com/in/jvpalmeira/)
