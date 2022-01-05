@@ -21,7 +21,7 @@ I have a background in math, programming and teaching because of my undergrad ex
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
-#### "You'll Never Walk Alone"
+### "You'll Never Walk Alone"
 
 [![jvpalmeira github stats](https://github-readme-stats.vercel.app/api?username=jvpalmeira&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/jvpalmeira)
 
