@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm a Data enthusiast and I'm currently studying focusing on a Data Scientist career :smile:
+I'm a Data enthusiast and I'm currently working as Data Engineer at BlueShift Brazil. :smile:
 
 I have a background in math, programming and teaching because of my undergrad experiences and already worked with small data, tech support and communication.
 
